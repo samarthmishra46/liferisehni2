@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-        serif: ['Neulis Cursive', 'serif'],
+        sans: ['var(--font-neulis)', 'Inter', 'sans-serif'],
+        serif: ['var(--font-neulis)', 'serif'],
       },
       colors: {
         border: "hsl(var(--border))",

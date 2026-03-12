@@ -16,7 +16,7 @@ const WhoIsItForSection = () => {
   ];
 
   return (
-    <section className="section-padding bg-sage-dark relative overflow-hidden">
+    <section className="section-padding bg-[#003023] relative overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute top-0 right-0 w-96 h-96 bg-cream rounded-full blur-3xl" />
