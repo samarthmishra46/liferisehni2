@@ -64,7 +64,7 @@ const CTASection = () => {
             27-min physician consult. Starts Monday.
           </p>
 
-          <p className="text-sm text-[#EBFFEB]/60 max-w-2xl mx-auto">
+          <p className="text-md text-white font-semibold max-w-2xl mx-auto">
             <strong>Disclaimer:</strong> Results may vary based on individual health conditions. 
             All treatments are provided under medical supervision.
           </p>

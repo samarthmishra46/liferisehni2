@@ -1,5 +1,5 @@
 import { Star, Quote } from "lucide-react";
-
+ 
 const TestimonialsSection = () => {
   const testimonials = [
     {
@@ -7,21 +7,21 @@ const TestimonialsSection = () => {
       age: 46,
       location: "Partner, VC Fund | New Delhi",
       text: "LIFE RISE delivered what no trainer could: sustained energy through board meetings and family life. My partners notice the difference. My children now call me their 'Super Mom'.",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=faces",
+      image: "https://images.unsplash.com/photo-1735331467260-0153c5fbd31d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGluZGlhJTIwcGVvcGxlJTIwcG90cmFpdHxlbnwwfHwwfHx8MA%3D%3D",
     },
     {
       name: "Rohan Mehta",
       age: 52,
       location: "Founder, SaaS Company | Mumbai",
       text: "Medical precision replaced fitness guesswork. I maintain peak performance across Mumbai-Dubai travel cycles. My board believes I'm a decade younger.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=faces",
+      image: "https://images.unsplash.com/photo-1650962903665-d66116fe94ef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5kaWElMjBwZW9wbGUlMjBwb3RyYWl0fGVufDB8fDB8fHww",
     },
     {
       name: "Dr. Amit Kapoor",
       age: 58,
       location: "MD, Listed Company | Gurugram",
       text: "Capability preservation, not weight loss. Closed strategic acquisition feeling sharper than my leadership team. My daughter calls me her 'Iron Man' benchmark.",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=faces",
+      image: "https://media.istockphoto.com/id/1369746033/photo/portrait-of-a-handsome-young-businessman-working-in-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=JepBOGOGiPwRF2z0pwiADeUZhsk6eFt4eKliWjzDGHo=",
     },
   ];
 
